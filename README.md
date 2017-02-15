@@ -10,6 +10,7 @@ In February 2017 we [reported that one in three new build properties outside Lon
 
 ## Visualisation and interactivity
 
+* Video: 'We pay less now than we would on rent'
 * Search widget: *Help to Buy: Equity Loan - Use our search to find out how the scheme has fared in your local authority*
 * Infographic: In numbers: Help to Buy
 * Bar chart: Highest Help To Buy equity loans
